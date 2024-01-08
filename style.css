@@ -1,0 +1,547 @@
+/* -------------------------all-------------------------- */
+* {
+    font-family: 'Merriweather', serif;
+}
+
+
+/* -----------------------Header------------------------- */
+
+.header{
+    margin-left: 18px;
+}
+
+.banner {
+    background-image: url('/resources/BannerImage.png');
+    height: 600px;
+    width: 1320px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.banner-text {
+    color: white;
+    background-image: url('/resources/shade.png');
+    height: 600px;
+    text-align: center;
+}
+
+.banner-textt {
+    padding-top: 177px;
+}
+
+.banner-textt h4 {
+    font-size: 32px;
+    margin-top: -18px;
+}
+
+.banner-textt h1 {
+    font-size: 72px;
+    margin-top: -18px;
+}
+
+/* -----------------------------main-------------------------- */
+
+.mainn{
+    margin-left: 18px;
+}
+
+/* ----------------------------main1-------------------------- */
+
+.main1 {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.sixty-off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.our-holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.all-categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+}
+
+/* -----------------------------main2------------------------- */
+
+.main2 {
+    margin-top: 120px;
+    background-image: url('/resources/midshade.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+
+.welcome2 {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.joinnow {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.midlekha {
+    padding-left: 126px;
+    padding-top: 80px;
+}
+
+.midimg {
+    padding-top: 90px;
+    margin-right: 138px;
+}
+
+.midshade {
+    background-image: url('/resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+    margin-left: 30px;
+}
+
+/* -----------------------------main3------------------------- */
+
+.main3 {
+    background-image: linear-gradient(rgb(255, 224, 224), rgb(255, 255, 255));
+    height: 482px;
+    width: 1320px;
+    margin-left: 30px;
+    margin-top: 120px;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.main3text {
+    padding: 100px;
+    padding-bottom: 30px;
+    font-size: 32px;
+}
+
+.main3text h4 {
+    color: red;
+    font-family: Inter;
+    font-weight: 600;
+}
+
+.white {
+    color: black;
+    font-family: Inter;
+    font-weight: 600;
+}
+
+.btn-joinnow {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: #F00;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
+}
+
+.btnjoinnow {
+    padding-bottom: 110px;
+}
+
+/* ---------------------------bonus-------------------------- */
+.bonus {
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    width: 1320px;
+    margin-left: 30px;
+
+}
+
+.ellipsbg1 {
+    background-image: url('/resources/Ellipse2.png');
+    background-repeat: no-repeat;
+    height: 463px;
+    width: 463px;
+}
+
+.ellipsbg2 {
+    padding: 48px;
+}
+
+.bonusp {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.newbestoffer {
+    color: #F00;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: -30px;
+}
+
+.comingsoon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.tt {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.inter {
+    font-family: inter;
+}
+
+/* -----------------------------main4------------------------- */
+
+.main4 {
+    margin-top: 100px;
+    width: 1320px;
+    margin-left: 30px;
+
+}
+
+.holidaysection {
+    text-align: center;
+
+}
+
+.what {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holiday-sale {
+    margin-top: -60px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.holidays {
+    color: red;
+}
+
+.embrace {
+    margin-top: -50px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    padding: 0px 50px 10px 50px;
+}
+
+.holidayimg {
+    display: flex;
+    width: 1320px;
+    margin-top: -180px;
+}
+
+.girl {
+    height: 433px;
+    width: 429px;
+}
+
+.discount {
+    height: 206px;
+    width: 206px;
+    position: relative;
+    right: 160px;
+    top: 280px;
+}
+
+.redline {
+    width: 1320px;
+}
+
+.box {
+    position: relative;
+    top: 230px;
+}
+
+.jhamela {
+    position: relative;
+    right: 429px;
+    top: 28px;
+}
+
+/* -----------------------------main5------------------------- */
+
+.main5 {
+    padding-left: 30px;
+    width: 1320px;
+    margin-top: 120px;
+}
+
+.thebest {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.aww {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: -20px;
+    margin-bottom: -8px;
+}
+
+.intro {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 900px;
+}
+
+.pic-container {
+    margin-top: 50px;
+}
+
+.pic-container1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.pic-container2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* -----------------------------main6------------------------- */
+
+.main6 {
+    width: 1320px;
+    background-color: #FF00000D;
+    margin-left: 30px;
+    margin-top: 120px;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.emailimg {
+    padding-top: 80px;
+}
+
+.substext {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: -4px;
+}
+
+.subsp {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.subs {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+    margin-top: 40px;
+}
+
+#email {
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    background: #FFF;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 40px;
+    border: 0;
+}
+
+.subsbtn {
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    border: 0;
+}
+
+
+
+/* -----------------Footer----------------- */
+
+.phone {
+    height: 24px;
+    color: #FFF;
+    margin-top: 31px;
+    margin-right: 7px;
+}
+
+.globe {
+    height: 24px;
+    color: #FFF;
+    margin-top: 33px;
+    margin-right: 7px;
+}
+
+.foot{
+    background-color: #070211;
+    height: 609px;
+    margin-top: 120px;
+}
+
+.foottext {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+hr{
+    opacity: 14%;
+    width: 1320px;
+}
+
+.footup{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.icontext1{
+    display: flex;
+}
+
+.footmid{
+    display: flex;
+    justify-content: center;
+}
+
+.footmid img {
+    margin: 24px;
+}
+
+.footlast{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
